@@ -10,6 +10,7 @@ Spring Boot
 </summary>
 
 - [ ] TEST
+ </details>
 
  <details>
 <summary>
@@ -19,6 +20,7 @@ DESIGN PATTERNS
 - [ ] FACTORY
 - [ ] BUILDER
 
+ </details>
 
  <details>
 <summary>
@@ -31,3 +33,4 @@ FEATURES
 - [ ] 04_Stream API
 - [ ] 05_Optional Class
 - [ ] 06_Concurrency Improvement
+ </details>
